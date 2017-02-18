@@ -1,0 +1,13 @@
+html {
+  font-family: 'Roboto Mono', monospace;
+}
+
+body {
+  margin: 10% 20%;
+  width: 50%;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 21px;
+}
