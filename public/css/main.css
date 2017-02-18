@@ -11,3 +11,10 @@ p {
   font-family: 'Courier New', Courier, monospace;
   line-height: 21px;
 }
+
+@media(max-width: 500px) {
+  body {
+    margin: 5% auto;
+    width: 85%;
+  }
+}
